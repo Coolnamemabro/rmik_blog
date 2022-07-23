@@ -1,1 +1,1 @@
- #Rekam Medis & Informasi Kesehatan
+ Rekam Medis & Informasi Kesehatan
